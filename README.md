@@ -11,7 +11,7 @@
 
 - 🔭 Studying **Computer Engineering at Çukurova University 3rd Class**.
 - ☁️ **Cloud Engineering Intern at Huawei Integration Solution Development (ISD)** — Working hands-on with Go backend and cloud operations within an Agile environment.
-- 🏆 **Cloud Infrastructure and Security Lead for SoilMate AI** — Secured **1st Place in Europe** at the Huawei Developer Competition 2025.
+- 🏆 **Cloud Infrastructure and Security -- SoilMate AI** — Secured **1st Place in Europe** at the Huawei Developer Competition 2025.
 - 🌱 Currently deepening my skills in **SQL, CI/CD pipelines (GitHub Actions), and advanced Docker**.
 - 🎯 Long-term path: **Cloud Engineer → DevOps Engineer ...**.
 
